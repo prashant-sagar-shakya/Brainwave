@@ -1,8 +1,19 @@
-# React + Vite
+# Brainwave
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Brainwave is a sleek and customizable UI/UX design crafted with React and Tailwind CSS, specifically tailored for AI chat interactions. Please note that this repository only contains the frontend components; backend functionality is not included.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Sleek Design**: Enjoy a modern and visually appealing interface.
+- **Customizable**: Personalize the chat experience to suit your preferences.
+- **Responsive**: Seamlessly adapts to different screen sizes for optimal user experience.
+- **Intelligent Conversations**: Engage in meaningful interactions with AI.
+- **Integration Flexibility**: Integrate your local or cloud-based AI models to generate responses to user queries.
+
+## Usage
+
+1. Clone the repository with `git clone https://github.com/prashant-sagar-shakya/Brainwave.git`.
+2. Install dependencies with `npm install` or `yarn install`.
+3. Customize the UI as needed.
+4. Integrate your AI models for generating responses.
+
