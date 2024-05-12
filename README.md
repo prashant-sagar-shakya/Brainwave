@@ -16,4 +16,5 @@ Brainwave is a sleek and customizable UI/UX design crafted with React and Tailwi
 2. Install dependencies with `npm install` or `yarn install`.
 3. Customize the UI as needed.
 4. Integrate your AI models for generating responses.
+5. Run the App with `vite dev`.
 
