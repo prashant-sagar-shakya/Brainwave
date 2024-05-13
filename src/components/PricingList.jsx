@@ -29,7 +29,9 @@ const PricingList = () => {
 
           <Button
             className="w-full mb-6"
-            href={item.price ? "/pricing" : "mailto:prashant.sagar.shakya@gmail.com"}
+            href={
+              item.price ? "/pricing" : "mailto:prashant.sagar.shakya@gmail.com"
+            } /* Stripe/Razorpay component added insted of /pricing */
             white={!!item.price}
           >
             {item.price ? "Get started" : "Contact us"}

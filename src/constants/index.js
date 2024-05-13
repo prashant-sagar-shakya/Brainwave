@@ -33,7 +33,7 @@ import {
   sliders04,
   telegram,
   twitter,
-  yourlogo,
+  yourlogo, // It would be a image logo here
 } from "../assets";
 
 export const navigation = [
@@ -60,13 +60,13 @@ export const navigation = [
   {
     id: "4",
     title: "New account",
-    url: "#signup",
+    url: "#signup", // clerk authentication needed
     onlyMobile: true,
   },
   {
     id: "5",
     title: "Sign in",
-    url: "#login",
+    url: "#login", // clerk authentication needed
     onlyMobile: true,
   },
 ];
@@ -75,7 +75,7 @@ export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
 
 export const notificationImages = [notification4, notification3, notification2];
 
-export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
+export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo]; // import logo images
 
 export const brainwaveServices = [
   "Photo generating",
