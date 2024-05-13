@@ -1,8 +1,9 @@
 import { companyLogos } from "../constants";
 
-const CompanyLogos = () => { 
+const CompanyLogos = ({ className }) => { 
+  // className should be passes as props
   return (
-    <div>
+    <div className={className}>
       <h5 className="tagline mb-6 text-center text-n-1/50">
         Helping people create beautiful content at
       </h5>
