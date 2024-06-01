@@ -2,6 +2,9 @@
 
 Brainwave is a sleek and customizable UI/UX design crafted with React and Tailwind CSS, specifically tailored for AI chat interactions. Please note that this repository only contains the frontend components; backend functionality is not included.
 
+## Preview
+![Thumbnail](/brainwave.png)
+
 ## Features
 
 - **Sleek Design**: Enjoy a modern and visually appealing interface.
